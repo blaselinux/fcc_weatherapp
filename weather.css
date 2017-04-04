@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017.03.17., 9:05:33
+    Author     : blaselinux
+*/
+
+.well {
+    margin-top: 100px;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    background: #00aae5;
+    color: #fff;
+    text-shadow: 1px 2px 2px #117da8;
+    justify-content: center;
+}
+
+#image img {
+    text-align: center;
+    align-content: center;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
+}
+
+#data {
+    padding-top: 10px;
+    background: #add6de;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
+}
+
+#sunRise {
+    margin-top: 10px;
+    padding-top: 10px;
+    background: #fbf793;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
+}
+
+#sunSet {
+    margin-top: 10px;
+    padding-top: 10px;
+    background: #777777;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
+}
+
+#degree {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 40px;
+}
+
+.well table {
+    text-align: center;
+}
+
+.well ul {
+  list-style: none;
+  padding-left: 0;
+  float: left;
+  margin-top: 15px;
+  margin-right: 50px;
+}
+
+.well li {
+  margin-bottom: 10px;
+}
+
+[class^="icon"] {
+  margin-right: 10px;
+  fill: #000;
+  width: 20px;
+  height: 20px;
+}
+
+.good [class^="icon"] {
+  top: 15px;
+  margin-right: 10px;
+  fill: #fff;
+}
+
+.bad [class^="icon"] {
+  width: 15px;
+  height: 15px;
+  bottom: 3px;
+}
+
+.bal {
+    
+    float: left;
+}
+
+button {
+    margin: 10px;
+    box-shadow: 2px 4px 8px rgba(0, 0, 0, .5);
+}
