@@ -5,7 +5,7 @@
  */
 
 var lat, lon, fok, felho, varos, ido, url, szel, city, orszag, sunRise, sunSet, ikon;
-var appId = "912c6f6e2e638690b78d8ed08891d55a";
+var appId = "0bd3bbd2c5c8b4c72d23cae41309ebdd";
 var kelvin = 272;
 var isItCelsius = true;
 var weatherData = {};
